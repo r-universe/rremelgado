@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fieldRS"]
+	path = fieldRS
+	url = https://github.com/rremelgado/fieldrs
+	shallow = true
+	registered = true
